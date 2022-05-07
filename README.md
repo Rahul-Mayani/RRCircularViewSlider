@@ -1,7 +1,7 @@
 # RRCircularViewSlider
 
 ## Example
-![alt text](https://github.com/Rahul-Mayani/RRCircularViewSlider/blob/master/sample.gif)
+<img src="https://github.com/Rahul-Mayani/RRCircularViewSlider/blob/master/sample.gif" width="300">
 
 ## Requirements
 
